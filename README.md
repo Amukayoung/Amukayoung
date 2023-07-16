@@ -1,4 +1,4 @@
-I'll![MasterHead](https://amukayoung.com/wp-content/uploads/2023/04/amukaandrewyoung-e1681314083521.jpg)
+![MasterHead](https://amukayoung.com/wp-content/uploads/2023/04/amukaandrewyoung-e1681314083521.jpg)
 # 💫 About Me:
 <h2> Hi 👋, I am Amuka Andrew Young </h2>
 
