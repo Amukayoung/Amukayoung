@@ -1,4 +1,4 @@
-![MasterHead](https://amukayoung.com/wp-content/uploads/2023/04/amukaandrewyoung-e1681314083521.jpg)
+I'll![MasterHead](https://amukayoung.com/wp-content/uploads/2023/04/amukaandrewyoung-e1681314083521.jpg)
 # 💫 About Me:
 <h2> Hi 👋, I am Amuka Andrew Young </h2>
 
@@ -10,7 +10,7 @@
 
 
 
-## 🌐 Social handles:
+## 🌐 My Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/amuka.young) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrewamuka/) 
 
 ## 💻 Tech Stack:
