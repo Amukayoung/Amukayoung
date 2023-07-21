@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Ministry of Health(MOH) Service Bay Management Application
 - 🔭 Find more from my portfolio [website](http://amukayoung.com/)
-<h3>Recently articles</h3>
+<h3>Recently published articles</h3>
 - Techniques to improve the time complexity of your code (https://amukayoung.com/techniques-to-improve-the-time-complexity-of-your-code/)<br>
 - When to use useRef and useReducer hooks in react js (https://amukayoung.com/when-to-use-useref-and-usereducer-hook-in-react-js/)
 
