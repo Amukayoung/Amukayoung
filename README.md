@@ -2,7 +2,6 @@
 # 💫 About Me:
 <h2> Hello 👋, I am Amuka Andrew Young </h2>
 
-- 🔭 I’m currently working on Ministry of Health(MOH) Service Bay Management Application
 - 🔭 Find more from my portfolio [website](http://amukayoung.com/)
 <h3>Recent Articles</h3>
 - Techniques to improve the time complexity of your code (https://amukayoung.com/techniques-to-improve-the-time-complexity-of-your-code/)<br>
