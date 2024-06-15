@@ -1,6 +1,6 @@
 ![MasterHead](https://amukayoung.com/wp-content/uploads/2023/04/amukaandrewyoung-e1681314083521.jpg)
 # 💫 About Me:
-<h2> Hello 👋, I am Amuka Andrew Young </h2>
+<h2> Hey 👋, I am Amuka Andrew Young </h2>
 
 - 🔭 Find more from my portfolio [website](http://amukayoung.com/)
 <h3>Recent Articles</h3>
